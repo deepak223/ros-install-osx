@@ -11,7 +11,7 @@ This is the successor to my [popular gist on the same topic][1].
 [1]: https://gist.github.com/mikepurvis/9837958
 
 
-Usage
+Usage test to be merged
 -----
 
     curl https://raw.githubusercontent.com/mikepurvis/ros-install-osx/master/install | bash
