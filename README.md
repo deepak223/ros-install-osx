@@ -12,7 +12,7 @@ This is the successor to my [popular gist on the same topic][1].
 
 
 Usage
------
+----- I am the source
 
     curl https://raw.githubusercontent.com/mikepurvis/ros-install-osx/master/install | bash
 
